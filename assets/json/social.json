@@ -1,0 +1,86 @@
+	{
+	"whatsapp": {
+		"slug": "whatsapp",
+		"name": "Whatsapp",
+		"icon": "fab fa-whatsapp",
+		"example": "https://api.whatsapp.com/send?phone=15005005000"
+	},
+	"telegram": {
+		"slug": "telegram",
+		"name": "Telegram",
+		"icon": "fab fa-telegram-plane",
+		"example": "https://t.me/username/"
+	},
+	"facebook": {
+		"slug": "facebook",
+		"name": "Facebook",
+		"icon": "fab fa-facebook-f",
+		"example": "https://www.facebook.com/username/"
+	},
+	"instagram": {
+		"slug": "instagram",		  
+		"name": "Instagram",
+		"icon": "fab fa-instagram",
+		"example": "https://www.instagram.com/username/"
+	},
+	"twitter": {
+		"slug": "twitter",	
+		"name": "Twitter",
+		"icon": "fab fa-twitter",
+		"example": "https://twitter.com/username/"
+	},
+	"tiktok": {
+		"slug": "tiktok",
+		"name": "Tiktok",
+		"icon": "fab fa-tiktok",
+		"example": "https://www.tiktok.com/@username"
+	},
+	"youtube": {
+		"slug": "youtube",
+		"name": "Youtube",
+		"icon": "fab fa-youtube",
+		"example": "https://www.youtube.com/channel/channelID/"
+	}, 
+	"pinterest": {
+		"slug": "pinterest",
+		"name": "Pinterest",
+		"icon": "fab fa-pinterest-p",
+		"example": "https://www.pinterest.com/username/"
+	},
+	"linkedin": {
+		"slug": "linkedin",
+		"name": "LinkedIn",
+		"icon": "fab fa-linkedin-in",
+		"example": "https://www.linkedin.com/in/username/"
+	},
+	"vk": {
+		"slug": "vk",
+		"name": "VK",
+		"icon": "fab fa-vk",
+		"example": "https://vk.com/username/"
+	},
+	"snapchat": {
+		"slug": "snapchat",
+		"name": "Snapchat",
+		"icon": "fab fa-snapchat-ghost",
+		"example": "https://snapchat.com/add/username/"
+	},
+	"skype": {
+		"slug": "skype",
+		"name": "Skype",
+		"icon": "fab fa-skype",
+		"example": "https://join.skype.com/invite/userID"
+	},
+	"vimeo": {
+		"slug": "vimeo",
+		"name": "Vimeo",
+		"icon": "fab fa-vimeo-v",
+		"example": "https://vimeo.com/username/"
+	},
+	"behance": {
+		"slug": "behance",
+		"name": "Behance",
+		"icon": "fab fa-behance",
+		"example": "https://www.behance.net/username/"
+	}
+}
